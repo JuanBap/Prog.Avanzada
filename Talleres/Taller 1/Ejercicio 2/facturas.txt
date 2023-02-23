@@ -1,0 +1,46 @@
+---------------------------------------------
+
+Facturas de los clientes: 
+
+---------------------------------------------
+Factura #[1]
+Nombres de la persona: Maria Paz
+Apellidos de la persona: Salom Munoz
+Cedula de la persona: 45672340
+Monto que debe pagar: 10000
+
+
+---------------------------------------------
+Factura #[2]
+Nombres de la persona: Juan Pablo
+Apellidos de la persona: Canon Contreras
+Cedula de la persona: 1031643577
+Monto que debe pagar: 180000
+
+
+---------------------------------------------
+Factura #[3]
+Nombres de la persona: Manuel Alejandro
+Apellidos de la persona: Rincon Bernate
+Cedula de la persona: 13800290
+Monto que debe pagar: 869700
+
+
+---------------------------------------------
+Factura #[4]
+Nombres de la persona: Tatiana
+Apellidos de la persona: Vivas Restrepo
+Cedula de la persona: 45901234
+Monto que debe pagar: 251100
+
+
+---------------------------------------------
+Factura #[5]
+Nombres de la persona: Julio Cesar
+Apellidos de la persona: Canon Cifuentes
+Cedula de la persona: 19441235
+Monto que debe pagar: 179000
+
+
+---------------------------------------------
+Finalizaron las facturas.
