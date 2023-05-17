@@ -4,7 +4,7 @@
 
 >En esta carpeta se encuentra el código del video juego de la autoria del canal de
 youtube [Bro code] https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=214s
-transcrito por mí y completamente explicado y documentado mediante comentarios
+transcrito por mí, completamente explicado y documentado mediante comentarios
 dentro de cada clase del código.
 
 ---
