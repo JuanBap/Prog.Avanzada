@@ -1,5 +1,4 @@
-## 🟢Estudiante: Juan Pablo Cañón Contreras 🥇
-## Presentado al profesor: J. Corredor 🔝
+## 🟢 Juan Pablo Cañón Contreras 🥇
  ---
 # _⭐Repositorio Programación Avanzada 2023 - I⭐_
 
