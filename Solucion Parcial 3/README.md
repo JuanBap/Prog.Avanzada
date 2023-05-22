@@ -84,4 +84,4 @@ para un método heredado de la clase padre.
 
 ----
 
-#### Última actualización: 12/05/2023 por Juan Pablo Cañón 🔝
+#### Última actualización: 22/05/2023 por Juan Pablo Cañón 🔝
