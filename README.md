@@ -4,8 +4,7 @@
 
 >En este repositorio se encontrarán diversos ejercicios de los lenguajes 
 >de programación C++ y Java. Dichos ejercicios evidencian los conceptos 
->aprendidos durante cada corte académico.
-
+>aprendidos.
 ---
 # Ejercicios de    🟦C++
 
@@ -43,4 +42,4 @@ de los siguientes temas vistos en clase y/o estudio personal.
 
 ----
 
-#### Última actualización: 17/05/2023 por Juan Pablo Cañón 🔝
+#### Última actualización: 22/05/2023 por Juan Pablo Cañón 🔝
