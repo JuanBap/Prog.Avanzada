@@ -4,7 +4,7 @@
 #### La solución del programa se encuentra dentro de la carpeta src, para correrla se necesita:
 #### 1. JDK versión actualizada 
 #### 2. IDE de Java (IntelliJ, Eclipse, ApacheNetBeans, etc)
-#### 4. Descargar la carpeta y correrla con un IDE de Java
+#### 3. Descargar la carpeta y correrla con un IDE de Java
 ---
 
 ##### Preguntas del parcial:
