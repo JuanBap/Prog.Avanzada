@@ -76,10 +76,10 @@ public class Main {
         //Eliminar uno de los conjuntos de datos duplicados
         analizador.eliminarConjuntoDeDatos("Imágenes de satélite");
 
-        // Obtener las descripciones actualizadas después de la eliminación
+        //Obtener las descripciones actualizadas después de la eliminación
         ArrayList<String> descripcionesActualizadas = analizador.describirConjuntosDeDatos();
 
-        // Imprimir las descripciones en pantalla
+        //Imprimimos las descripciones en pantalla nuevamente
         for (String emp2 : descripcionesActualizadas) {
 
             System.out.println(emp2);
